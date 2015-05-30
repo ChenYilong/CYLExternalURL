@@ -10,14 +10,14 @@
 	<string>TestExternalURL</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>146E6D5DADE1BED5C5A26BEA694669215AB8BAE2</key>
+		<key>5A3D58E587B655D8A05F545EF3A66A6AAADBCD1E</key>
 		<string>https://github.com/jcatalan007/TestExternalURL</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>TestExternalURL.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>146E6D5DADE1BED5C5A26BEA694669215AB8BAE2</key>
+		<key>5A3D58E587B655D8A05F545EF3A66A6AAADBCD1E</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>146E6D5DADE1BED5C5A26BEA694669215AB8BAE2</string>
+	<string>5A3D58E587B655D8A05F545EF3A66A6AAADBCD1E</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>146E6D5DADE1BED5C5A26BEA694669215AB8BAE2</string>
+			<string>5A3D58E587B655D8A05F545EF3A66A6AAADBCD1E</string>
 			<key>IDESourceControlWCCName</key>
 			<string>TestExternalURL</string>
 		</dict>
