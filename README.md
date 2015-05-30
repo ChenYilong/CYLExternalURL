@@ -16,7 +16,6 @@ These are the steps:
 
 2) In your web page you need to handle the two scenarios: app installed / not installed. It is just a matter of detecting if an app responds to the scheme `myawesomeapp://`. 
 
-To detect from your webpage if your app is not installed please refer to [this post][2]
 
 I will explain the case where your app is already installed. 
 
@@ -52,8 +51,7 @@ Once the app is opened, click on the button and you will return to this stack ov
 
 
   [1]: http://i.stack.imgur.com/mlVDM.png
-  [2]: http://stackoverflow.com/questions/627916/check-if-url-scheme-is-supported-in-javascript
   [3]: http://en.wikipedia.org/wiki/Percent-encoding
-  [4]: http://jcatalan007.github.io/TestExternalURL/
-  [5]: http://is.gd/yNRhc6
+  [4]: https://github.com/ChenYilong/CYLExternalURL
+  [5]: myawesomeapp://?action=my_action_1&sourceurl=http://weibo.com/1692391497/CkirQtS1I?from=page_1005051692391497_profile&wvr=6&mod=weibotime&type=comment#_rnd1433007524429
   [6]: https://github.com/ChenYilong/TestExternalURL/blob/master/TestExternalURL/it_is_effect_show_shemeurl.gif
