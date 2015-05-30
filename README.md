@@ -1,6 +1,8 @@
 # TestExternalURL
 模仿 iPhone App 简述 的效果:在html中跳转到App中的对应页面,并能从App跳转到原来的网址
+ ![enter image description here][6]
 
+  
 
 There is a way to accomplish what you want using standard iOS APIs. No need to use external components.
 
@@ -54,3 +56,4 @@ Once the app is opened, click on the button and you will return to this stack ov
   [3]: http://en.wikipedia.org/wiki/Percent-encoding
   [4]: http://jcatalan007.github.io/TestExternalURL/
   [5]: http://is.gd/yNRhc6
+  [6]: https://github.com/ChenYilong/TestExternalURL/blob/master/TestExternalURL/it_is_effect_show_shemeurl.gif
