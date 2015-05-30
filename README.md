@@ -50,7 +50,7 @@ And to finalize, after you install the sample project in your iPhone, open this 
 Once the app is opened, click on the button and you will return to this stack overflow post.
 
 
-  [1]: http://i.stack.imgur.com/mlVDM.png
+  [1]: https://github.com/ChenYilong/CYLExternalURL/blob/master/CYLExternalURL/it_is_screenshot_setting.png
   [3]: http://en.wikipedia.org/wiki/Percent-encoding
   [4]: https://github.com/ChenYilong/CYLExternalURL
   [5]: myawesomeapp://?action=my_action_1&sourceurl=http://weibo.com/1692391497/CkirQtS1I?from=page_1005051692391497_profile&wvr=6&mod=weibotime&type=comment#_rnd1433007524429
