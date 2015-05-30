@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
-	<string>us.BitCrafters.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<string>ios.Dev.iOS程序犭袁</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -24,7 +24,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>us.BitCrafters.TestExternalURL</string>
+			<string>ios.Dev.iOS程序犭袁</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>myawesomeapp</string>

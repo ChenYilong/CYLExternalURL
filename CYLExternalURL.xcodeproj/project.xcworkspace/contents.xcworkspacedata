@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:TestExternalURL.xcodeproj">
+      location = "self:/Users/chenyilong/Documents/Demo/TestExternalURL/CYLExternalURL.xcodeproj">
    </FileRef>
 </Workspace>

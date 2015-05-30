@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BE0CE5411B123D9200C83D0C"
-               BuildableName = "TestExternalURL.app"
-               BlueprintName = "TestExternalURL"
-               ReferencedContainer = "container:TestExternalURL.xcodeproj">
+               BuildableName = "CYLExternalURL.app"
+               BlueprintName = "CYLExternalURL"
+               ReferencedContainer = "container:CYLExternalURL.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BE0CE55A1B123D9200C83D0C"
-               BuildableName = "TestExternalURLTests.xctest"
-               BlueprintName = "TestExternalURLTests"
-               ReferencedContainer = "container:TestExternalURL.xcodeproj">
+               BuildableName = "CYLExternalURLTests.xctest"
+               BlueprintName = "CYLExternalURLTests"
+               ReferencedContainer = "container:CYLExternalURL.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "BE0CE55A1B123D9200C83D0C"
-               BuildableName = "TestExternalURLTests.xctest"
-               BlueprintName = "TestExternalURLTests"
-               ReferencedContainer = "container:TestExternalURL.xcodeproj">
+               BuildableName = "CYLExternalURLTests.xctest"
+               BlueprintName = "CYLExternalURLTests"
+               ReferencedContainer = "container:CYLExternalURL.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -57,9 +57,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BE0CE5411B123D9200C83D0C"
-            BuildableName = "TestExternalURL.app"
-            BlueprintName = "TestExternalURL"
-            ReferencedContainer = "container:TestExternalURL.xcodeproj">
+            BuildableName = "CYLExternalURL.app"
+            BlueprintName = "CYLExternalURL"
+            ReferencedContainer = "container:CYLExternalURL.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BE0CE5411B123D9200C83D0C"
-            BuildableName = "TestExternalURL.app"
-            BlueprintName = "TestExternalURL"
-            ReferencedContainer = "container:TestExternalURL.xcodeproj">
+            BuildableName = "CYLExternalURL.app"
+            BlueprintName = "CYLExternalURL"
+            ReferencedContainer = "container:CYLExternalURL.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,9 +96,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "BE0CE5411B123D9200C83D0C"
-            BuildableName = "TestExternalURL.app"
-            BlueprintName = "TestExternalURL"
-            ReferencedContainer = "container:TestExternalURL.xcodeproj">
+            BuildableName = "CYLExternalURL.app"
+            BlueprintName = "CYLExternalURL"
+            ReferencedContainer = "container:CYLExternalURL.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
