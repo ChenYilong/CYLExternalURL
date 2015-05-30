@@ -4,9 +4,9 @@
 
   
 
-There is a way to accomplish what you want using standard iOS APIs. No need to use external components.
+Let's using standard iOS APIs. No need to use external components.
 
-You control your webpage and your app, so you know the exact URL that has the link to your app.
+You must know the exact URL that has the link to your app.That is enough!
 
 These are the steps:
 
